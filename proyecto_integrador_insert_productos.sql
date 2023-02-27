@@ -19,35 +19,35 @@ VALUES ("Denji",300,3, "https://i.ibb.co/tJLkDX7/denji-sud-gris.png");
 
 -- Izuku Midoriya
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Izuku Midoriya",150,1, "Izuku Midoriya Dama");
+VALUES ("Izuku Midoriya",150,1, "https://i.ibb.co/XFDg6Zt/deku-pld-mar.png");
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Izuku Midoriya",150,1, "Izuku Midoriya Dama");
+VALUES ("Izuku Midoriya",150,1, "https://i.ibb.co/VVPwTjw/deku-pld-neg.png");
 
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Izuku Midoriya",150,"2", "Izuku Midoriya Caballero");
+VALUES ("Izuku Midoriya",150,"2", "https://i.ibb.co/jJbpGS9/deku-pl-gris.png");
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Izuku Midoriya",150,"2", "Izuku Midoriya Caballero");
+VALUES ("Izuku Midoriya",150,"2", "https://i.ibb.co/SvxjQ70/deku-pl-neg.png");
 
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Izuku Midoriya",300,3, "Izuku Midoriya Sudadera");
+VALUES ("Izuku Midoriya",300,3, "https://i.ibb.co/xjYR6Zh/deku-sud-gris.png");
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Izuku Midoriya",300,3, "Izuku Midoriya Sudadera");
+VALUES ("Izuku Midoriya",300,3, "https://i.ibb.co/8bZ5Pcr/deku-sud-neg.png");
 
 -- Tanjiro Kamado
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Tanjiro Kamado",150,1, "Tanjiro Kamado Dama");
+VALUES ("Tanjiro Kamado",150,1, "https://i.ibb.co/0fXpTq5/tanjiro-pld-mar.png");
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Tanjiro Kamado",150,1, "Tanjiro Kamado Dama");
+VALUES ("Tanjiro Kamado",150,1, "https://i.ibb.co/6RZYwyW/tanjiro-pld-neg.png");
 
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Tanjiro Kamado",150,2, "Tanjiro Kamado Caballero");
+VALUES ("Tanjiro Kamado",150,2, "https://i.ibb.co/P4RnXjM/tanjiro-pl-gris.png");
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Tanjiro Kamado",150,2, "Tanjiro Kamado Caballero");
+VALUES ("Tanjiro Kamado",150,2, "https://i.ibb.co/H2BLXD0/tanjiro-pl-neg.png");
 
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Tanjiro Kamado",300,3, "Tanjiro Kamado Sudadera");
+VALUES ("Tanjiro Kamado",300,3, "https://i.ibb.co/FhTwqyv/tanjiro-sud-gris.png");
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Tanjiro Kamado",300,3, "Tanjiro Kamado Sudadera");
+VALUES ("Tanjiro Kamado",300,3, "https://i.ibb.co/BTfHk12/tanjiro-sud-neg.png");
 
 -- Monkey D. Luffy
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
