@@ -23,9 +23,9 @@ INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`)
 VALUES ("Izuku Midoriya",150,1, "https://i.ibb.co/VVPwTjw/deku-pld-neg.png");
 
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Izuku Midoriya",150,"2", "https://i.ibb.co/jJbpGS9/deku-pl-gris.png");
+VALUES ("Izuku Midoriya",150,2, "https://i.ibb.co/jJbpGS9/deku-pl-gris.png");
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
-VALUES ("Izuku Midoriya",150,"2", "https://i.ibb.co/SvxjQ70/deku-pl-neg.png");
+VALUES ("Izuku Midoriya",150,2, "https://i.ibb.co/SvxjQ70/deku-pl-neg.png");
 
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
 VALUES ("Izuku Midoriya",300,3, "https://i.ibb.co/xjYR6Zh/deku-sud-gris.png");
