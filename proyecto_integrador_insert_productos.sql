@@ -1,4 +1,5 @@
 use proyecto_integrador;
+SELECT * FROM productos;
 
 -- Denji
 INSERT INTO `productos` (`nombre`,`precio`,`categoria`,`enlaceimagen`) 
